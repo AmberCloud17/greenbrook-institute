@@ -1,0 +1,25 @@
+{
+  "name": "greenbrook-institute-3d",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "description": "Greenbrook Institute — a first-person 3D interactive narrative (English edition)",
+  "scripts": {
+    "build": "bash build.sh",
+    "dev": "bash build.sh && python3 -m http.server 8000",
+    "serve": "python3 -m http.server 8000"
+  },
+  "dependencies": {
+    "motion": "^12.40.0",
+    "react": "^19.2.7",
+    "react-dom": "^19.2.7",
+    "three": "^0.184.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.3.1",
+    "@types/three": "^0.184.0",
+    "esbuild": "^0.28.1",
+    "tailwindcss": "^4.3.1",
+    "typescript": "5.8"
+  }
+}
