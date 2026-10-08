@@ -8,7 +8,7 @@ English edition. Single player, about one hour. Runs in a web browser; no instal
 
 ## Play
 
-**Online:** https://YOUR-USERNAME.github.io/greenbrook-institute/
+**Online:** https://AmberCloud17.github.io/greenbrook-institute/
 
 **Offline:**
 
